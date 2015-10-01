@@ -1,6 +1,6 @@
 # d3.geom.concaveHull
 
-D3 already includes convex hulls with `d3.geom.hull`. This brings together several methods developed by Jason Davies, Gregor Aisch and Ian Johnson to expose a simple way to generate convex hulls from an array of data.
+D3 already includes convex hulls with `d3.geom.hull`. This brings together several methods developed by Jason Davies, Gregor Aisch and Ian Johnson to expose a simple way to generate concave hulls from an array of data.
 
 ![d3.geom.concaveHull](concavehull.png "d3.geom.concaveHull")
 
